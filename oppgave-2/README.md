@@ -159,7 +159,7 @@ Oppsummering av hva workflow-filen gjør:
 
 :book: En workflow-kjøring vil enten lykkes eller feile, avhengig av om noen av jobbstegene feiler.
 
-:pencil2: Feilet workflow-kjøringen :x:? Prøv å lese feilmeldingen og finn ut hva som er galt. Spør om noe er uklart.
+:pencil2: Prøv å gjør en endring i koden for å få bygget til å feile (f.eks. ved å skrive ugyldig syntax). Sjekk at bygget feiler i Github. Reverter endring og se at bygget blir grønt igjen. 
 
 ## 2.5 Forbedring av Continuous-integration-flyt
 
